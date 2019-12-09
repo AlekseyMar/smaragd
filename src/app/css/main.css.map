@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","sources":["main.scss"],"sourcesContent":["a {\r\n    color: #034122;\r\n    &:hover {\r\n        color: #1d1b7e;\r\n        \r\n    }\r\n}"],"names":[],"mappings":"AAAA,AAAA,CAAC,CAAC;EACE,KAAK,EAAE,OAAO,GAKjB;EAND,AAEI,CAFH,AAEI,MAAM,CAAC;IACJ,KAAK,EAAE,OAAO,GAEjB"}
